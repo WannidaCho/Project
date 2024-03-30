@@ -11,4 +11,4 @@ Practice skills and show my projects about analysis and visualization
 
 - Excel Project (Pivot Chart Visualization)
   
-![image](https://imgur.com/undefined.jpg)
+![image](https://imgur.com/q3tAeqG.jpg)
