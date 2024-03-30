@@ -9,3 +9,6 @@ Practice skills and show my projects about analysis and visualization
 
 ![image](https://imgur.com/Z3e2E8M.jpg)
 
+- Excel Project (Pivot Chart Visualization)
+  
+![image](https://imgur.com/fVI6oq9.jpg)
