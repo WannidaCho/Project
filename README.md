@@ -15,4 +15,4 @@ Practice skills and show my projects about analysis and visualization
 
 
 -SQL & Power BI visualization
-![image](https://imgur.com/undefined.jpg)
+![image](https://imgur.com/VDh00OU.jpg)
