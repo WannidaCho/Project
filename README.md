@@ -16,4 +16,5 @@ I have attached my project files above.
 
 
 - SQL & Power BI visualization
+
 ![image](https://imgur.com/VDh00OU.jpg)
